@@ -6,7 +6,7 @@
         id        = "com.beati.acelerometro"
         version   = "1.0.0">
 
-    <name>Acelerometro</name>
+    <name>Mapa maimo</name>
 
     <description>
         Muestra las aceleración de tu ubicación
